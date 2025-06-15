@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Alexis! 👋
+*Aspring UI/UX. Committed Solutionist*
+
+I'm a Computer Science student passionate about UI/UX design, blending creativity with technical skills to craft intuitive digital experiences. I’m always eager to solve problems and excited to create user-centered solutions. 
+
+My strengths in project and team management, along with my critical thinking and detail-oriented approach, have allowed me to create high-quality work while preserving empathy.
+
+- 🔭 I’m currently working on my updated UI/UX portfolio!
+- 🌱 I’m currently (re)learning **JavaScript & Typescript**
+
+### How to reach me
 
 <!--
 **lexhari/lexhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
