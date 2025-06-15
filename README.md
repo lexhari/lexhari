@@ -10,6 +10,7 @@ My strengths in project and team management, along with my critical thinking and
 
 ### How to reach me
 [![LinkedIn](linkedin-color-svgrepo-com.svg)](https://www.linkedin.com/in/lexharriet/)
+<a href="https://www.linkedin.com/in/lexharriet/"> <img src="linkedin-color-svgrepo-com.svg" alt="LinkedIn of Lex Harriet" width="50" height="50"> < /a>
 
 <!--
 **lexhari/lexhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
