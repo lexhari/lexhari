@@ -9,6 +9,7 @@ My strengths in project and team management, along with my critical thinking and
 - 🌱 I’m currently (re)learning **JavaScript & Typescript**
 
 ### How to reach me
+[![LinkedIn](linkedin-color-svgrepo-com.svg)](https://www.linkedin.com/in/lexharriet/)
 
 <!--
 **lexhari/lexhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
