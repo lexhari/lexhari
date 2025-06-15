@@ -7,7 +7,6 @@ My strengths in project and team management, along with my critical thinking and
 
 - 🔭 I’m currently working on a hotel PMS and my updated UI/UX portfolio!
 - 🌱 I’m currently (re)learning **JavaScript & Typescript**.
-- 🌱 I’m currently learning **AI Fundamentals** on DataCamp.
 
 ### How to reach me
   <a href="https://www.linkedin.com/in/lexharriet/" target="_blank" rel="noopener noreferrer">
