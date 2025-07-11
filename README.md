@@ -1,7 +1,7 @@
 ## Hi, I'm Alexis! 👋
 ***Software Engineering Intern at University of the Philippines Baguio***
 
-*Aspring Front=end Engineer. Committed Solutionist*
+*Aspring Front-end Engineer. Committed Solutionist*
 
 I'm a Computer Science student passionate about front-end development and UI/UX design, blending creativity with technical skills to craft intuitive digital experiences. I’m always eager to solve problems and excited to create user-centered solutions. 
 
