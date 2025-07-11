@@ -3,12 +3,12 @@
 
 *Aspring Front=end Engineer. Committed Solutionist*
 
-I'm a Computer Science student passionate about UI/UX design, blending creativity with technical skills to craft intuitive digital experiences. I’m always eager to solve problems and excited to create user-centered solutions. 
+I'm a Computer Science student passionate about front-end development and UI/UX design, blending creativity with technical skills to craft intuitive digital experiences. I’m always eager to solve problems and excited to create user-centered solutions. 
 
 My strengths in project and team management, along with my critical thinking and detail-oriented approach, have allowed me to create high-quality work while preserving empathy.
 
-- 🔭 I’m currently working on a hotel PMS and my updated UI/UX portfolio!
-- 🌱 I’m currently (re)learning **JavaScript & Typescript**.
+- 🔭 I’m currently working on a hotel PMS and my updated portfolio!
+- 🌱 I’m currently (re)learning **JavaScript & Typescript** and **Mobile App Development**
 
 ### How to reach me
   <a href="https://www.linkedin.com/in/lexharriet/" target="_blank" rel="noopener noreferrer">
