@@ -7,8 +7,8 @@ I'm a Computer Science student passionate about front-end development and UI/UX 
 
 My strengths in project and team management, along with my critical thinking and detail-oriented approach, have allowed me to create high-quality work while preserving empathy.
 
-- 🔭 I’m currently working on a hotel PMS and my updated portfolio!
-- 🌱 I’m currently (re)learning **JavaScript & Typescript** and **Mobile App Development**
+- 🔭 I’m currently working on my updated portfolio (and my University thesis T^T)!
+- 🌱 I’m currently (re)learning **JavaScript & Typescript** and **practicing LeetCode**
 
 ### How to reach me
   <a href="https://www.linkedin.com/in/lexharriet/" target="_blank" rel="noopener noreferrer">
