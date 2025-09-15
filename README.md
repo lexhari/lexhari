@@ -1,5 +1,5 @@
 ## Hi, I'm Alexis! 👋
-***Software Engineering Intern at University of the Philippines Baguio***
+***University of the Philippines Baguio***
 
 *Aspring Front-end Engineer. Committed Solutionist*
 
